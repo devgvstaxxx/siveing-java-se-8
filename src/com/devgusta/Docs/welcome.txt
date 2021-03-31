@@ -1,0 +1,9 @@
+######################################################################
+	BEM VINDO AO SIVEING - SISTEMA DE VENDA DE INGRESSOS
+######################################################################
+	     PARA CONTINUAR, E NECESSARIO REALIZAR LOGIN
+######################################################################
+
+
+
+PRESSIONE ENTER PARA CONTINUAR:
